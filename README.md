@@ -7,9 +7,9 @@ Feel free to update the text, emojis, and especially the featured projects below
 -->
 
 <p align="center">
-  <a href="https://iseer.com" target="_blank">
+  <a href="https://iseer.social" target="_blank">
     <!-- 💡 Replace this with the URL to your official logo. A transparent PNG or SVG is best. -->
-    <img src="[YOUR_LOGO_URL]" alt="Iseer LLC Logo" width="200">
+    <img src="https://storage.iseer.social/Iseer%20Full%20LOGO%201.svg" alt="Iseer LLC Logo" width="200">
   </a>
 </p>
 
@@ -25,10 +25,9 @@ Feel free to update the text, emojis, and especially the featured projects below
 
 <p align="center">
   <!-- 💡 Update these badges with your actual links! -->
-  <a href="https://iseer.com" target="_blank"><img src="https://img.shields.io/badge/Website-iseer.com-blue?style=for-the-badge&logo=world" alt="Website"></a>
-  <a href="mailto:contact@iseer.com"><img src="https://img.shields.io/badge/Email-Contact_Us-red?style=for-the-badge&logo=gmail" alt="Email"></a>
-  <a href="https://www.linkedin.com/company/[YOUR_LINKEDIN]" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Follow_Us-0077B5?style=for-the-badge&logo=linkedin" alt="LinkedIn"></a>
-  <a href="https://twitter.com/[YOUR_TWITTER]" target="_blank"><img src="https://img.shields.io/badge/Twitter-Follow_Us-1DA1F2?style=for-the-badge&logo=twitter" alt="Twitter"></a>
+  <a href="https://iseer.social" target="_blank"><img src="https://img.shields.io/badge/Website-iseer.com-blue?style=for-the-badge&logo=world" alt="Website"></a>
+  <a href="mailto:feedbacks@iseer.social"><img src="https://img.shields.io/badge/Email-Contact_Us-red?style=for-the-badge&logo=gmail" alt="Email"></a>
+  <a href="https://x.com/Iseer_corp" target="_blank"><img src="https://img.shields.io/badge/Twitter-Follow_Us-1DA1F2?style=for-the-badge&logo=twitter" alt="Twitter"></a>
 </p>
 
 ---
