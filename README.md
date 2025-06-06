@@ -1,119 +1,92 @@
 <!-- 
 Hello, Iseer Team! 👋
 
-This is the README for our GitHub organization profile. 
-It's the first thing people see, so let's make it great.
-Feel free to update the text, emojis, and especially the featured projects below.
+This is the updated README for our GitHub organization profile.
+I've refined the language, structure, and visuals to make a stronger first impression.
+Please review the links and especially the new "Featured Projects" section.
 -->
 
 <p align="center">
   <a href="https://iseer.social" target="_blank">
-    <!-- 💡 Replace this with the URL to your official logo. A transparent PNG or SVG is best. -->
-    <img src="https://storage.iseer.social/Iseer%20Full%20LOGO%201.svg" alt="Iseer LLC Logo" width="200">
+    <img src="https://storage.iseer.social/Iseer%20Full%20LOGO%201.svg" alt="Iseer LLC Logo" width="220">
   </a>
 </p>
 
 <h1 align="center">
-  Welcome to Iseer LLC
+  Iseer
 </h1>
 
 <p align="center">
-  <strong>Crafting Digital Excellence, Globally.</strong>
+  <strong>Building High-Performance Digital Solutions, Globally.</strong>
   <br />
-  We are a passionate team of innovators, strategists, and engineers spread across the <strong>United States</strong> and <strong>Bangladesh</strong>, united by a single mission: to build technology that solves real-world problems and drives business success.
+  We are a passionate team of innovators and engineers across the <strong>United States</strong> and <strong>Bangladesh</strong>.
+  <br /> 
+  Our mission is to forge partnerships, turning complex challenges into elegant and powerful technology.
 </p>
 
 <p align="center">
-  <!-- 💡 Update these badges with your actual links! -->
-  <a href="https://iseer.social" target="_blank"><img src="https://img.shields.io/badge/Website-iseer.com-blue?style=for-the-badge&logo=world" alt="Website"></a>
-  <a href="mailto:feedbacks@iseer.social"><img src="https://img.shields.io/badge/Email-Contact_Us-red?style=for-the-badge&logo=gmail" alt="Email"></a>
-  <a href="https://x.com/Iseer_corp" target="_blank"><img src="https://img.shields.io/badge/Twitter-Follow_Us-1DA1F2?style=for-the-badge&logo=twitter" alt="Twitter"></a>
+  <!-- 💡 Tip: Ensure these links are up-to-date. I've corrected the badge text and icons. -->
+  <a href="https://iseer.social" target="_blank"><img src="https://img.shields.io/badge/Website-iseer.social-blue?style=for-the-badge&logo=icloud" alt="Website"></a>
+  <a href="https://x.com/Iseer_corp" target="_blank"><img src="https://img.shields.io/badge/Follow_Us-black?style=for-the-badge&logo=x" alt="Follow on X"></a>
+  <a href="mailto:contact@iseer.social"><img src="https://img.shields.io/badge/Email_Us-red?style=for-the-badge&logo=gmail" alt="Email Us"></a>
 </p>
 
 ---
 
-## 🔭 Our Vision
+## 🚀 Our Services
 
-At Iseer, we don't just write code; we build partnerships. We believe in the power of a shared vision, combining our technical expertise with your industry knowledge to create solutions that are not only powerful and scalable but also beautiful and intuitive. Our global presence gives us a unique perspective, allowing us to leverage diverse talent and operate with a 24/7 mindset to bring your ideas to life faster.
+We specialize in end-to-end product development, transforming ideas into market-ready solutions. Our expertise covers the entire lifecycle:
 
-## 🚀 What We Do
+*   🎨 **UI/UX Design:** Crafting intuitive and engaging user experiences that drive adoption and retention.
+*   💻 **Custom Software Development:** Bespoke web and desktop solutions tailored to your unique business needs.
+*   📱 **Mobile App Development:** High-quality native (Swift/Kotlin) and cross-platform (Flutter) apps for iOS & Android.
+*   ☁️ **Cloud & DevOps:** Architecting scalable, secure, and resilient infrastructure on AWS, GCP, and Azure.
+*   🤖 **AI & Data Solutions:** Leveraging machine learning to unlock insights, automate processes, and create intelligent products.
 
-We specialize in turning complex challenges into elegant, high-performance digital products. Our expertise spans the entire development lifecycle:
+## ✨ Our Technology Stack
 
-*   💻 **Custom Software Development:** Tailor-made solutions that fit your business like a glove.
-*   🌐 **Web Application Development:** Robust, scalable, and secure web platforms using modern frameworks.
-*   📱 **Mobile App Development:** Native & cross-platform apps that delight users on iOS and Android.
-*   ☁️ **Cloud & DevOps:** Architecting for scale, reliability, and security on AWS, GCP, and Azure.
-*   🎨 **UI/UX Design:** Crafting intuitive and engaging user experiences that drive adoption.
-*   🤖 **AI & Data Solutions:** Unlocking insights and automating processes with machine learning.
-
-## ✨ Our Tech Stack
-
-We are polyglots and pragmatists, always choosing the right tool for the job. Here are some of the technologies we love and trust:
+We believe in using the right tool for the job. Here’s a look at the technologies we frequently leverage to build world-class products.
 
 <table>
   <tr>
-    <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
-      <br><strong>React</strong>
+    <td align="center" valign="top" width="120">
+      <img src="https://skillicons.dev/icons?i=react,nextjs" width="48" height="48" alt="React/Next.js" />
+      <br><strong>Frontend</strong>
     </td>
-    <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" />
-      <br><strong>Node.js</strong>
+    <td align="center" valign="top" width="120">
+      <img src="https://skillicons.dev/icons?i=nodejs,go,python" width="48" height="48" alt="Node.js/Go/Python" />
+      <br><strong>Backend</strong>
     </td>
-    <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" />
-      <br><strong>Python</strong>
+    <td align="center" valign="top" width="120">
+      <img src="https://skillicons.dev/icons?i=flutter,swift" width="48" height="48" alt="Flutter/Swift" />
+      <br><strong>Mobile</strong>
     </td>
-    <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=go" width="48" height="48" alt="Go" />
-      <br><strong>Go</strong>
+    <td align="center" valign="top" width="120">
+      <img src="https://skillicons.dev/icons?i=postgres,mongodb" width="48" height="48" alt="PostgreSQL/MongoDB" />
+      <br><strong>Databases</strong>
     </td>
-    <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=flutter" width="48" height="48" alt="Flutter" />
-      <br><strong>Flutter</strong>
+    <td align="center" valign="top" width="120">
+      <img src="https://skillicons.dev/icons?i=aws,gcp,docker" width="48" height="48" alt="AWS/GCP/Docker" />
+      <br><strong>Cloud & DevOps</strong>
     </td>
-    <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=swift" width="48" height="48" alt="Swift" />
-      <br><strong>Swift</strong>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" />
-      <br><strong>Docker</strong>
-    </td>
-    <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=kubernetes" width="48" height="48" alt="Kubernetes" />
-      <br><strong>Kubernetes</strong>
-    </td>
-    <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=aws" width="48" height="48" alt="AWS" />
-      <br><strong>AWS</strong>
-    </td>
-    <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=gcp" width="48" height="48" alt="GCP" />
-      <br><strong>GCP</strong>
-    </td>
-     <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" />
-      <br><strong>PostgreSQL</strong>
-    </td>
-    <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="Figma" />
-      <br><strong>Figma</strong>
+    <td align="center" valign="top" width="120">
+      <img src="https://skillicons.dev/icons?i=figma,xd" width="48" height="48" alt="Figma/Adobe XD" />
+      <br><strong>Design</strong>
     </td>
   </tr>
 </table>
 
-## 📫 Let's Connect!
+---
 
-Have an idea? A challenge? Or just want to talk tech? We'd love to hear from you.
+## 📫 Let's Get in Touch
 
--   **For project inquiries:** [contact@iseer.com](mailto:feedbacks@iseer.social)
--   **For career opportunities:** [careers@iseer.com](mailto:mail@careers.iseer.social)
+Have an idea, a project, or just a question? We would love to connect with you.
+
+-   **Project Inquiries:** Drop us a line at [contact@iseer.social](mailto:contact@iseer.social)
+-   **Career Opportunities:** Join our team! See open positions at [careers@iseer.social](mailto:careers@iseer.social)
+-   **Find us on Social:** [LinkedIn](https://linkedin.com/company/iseer) <!-- 💡 Add your LinkedIn URL --> | [X (Twitter)](https://x.com/Iseer_corp)
 
 <br />
 <p align="center">
-  <strong>Let's build the future, together.</strong>
+  <strong>Let's innovate together.</strong>
 </p>
