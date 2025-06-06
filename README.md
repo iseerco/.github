@@ -106,32 +106,12 @@ We are polyglots and pragmatists, always choosing the right tool for the job. He
   </tr>
 </table>
 
-## 🌟 Featured Projects & Open Source
-
-We believe in giving back to the community and showcasing our craft. Here are a few projects we're particularly proud of.
-
-<!-- 
-💡 **HOW TO FEATURE A REPO**
-- Change `Iseer-LLC` to your GitHub organization name.
-- Change `[REPO_NAME]` to the name of the repository you want to feature.
-- You can change the `theme` parameter to any of the available themes: 
-  https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md
--->
-<p align="center">
-  <a href="https://github.com/Iseer-LLC/[REPO_NAME_1]">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Iseer-LLC&repo=[REPO_NAME_1]&theme=radical" />
-  </a>
-  <a href="https://github.com/Iseer-LLC/[REPO_NAME_2]">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Iseer-LLC&repo=[REPO_NAME_2]&theme=merko" />
-  </a>
-</p>
-
 ## 📫 Let's Connect!
 
 Have an idea? A challenge? Or just want to talk tech? We'd love to hear from you.
 
--   **For project inquiries:** [contact@iseer.com](mailto:contact@iseer.com)
--   **For career opportunities:** [careers@iseer.com](mailto:careers@iseer.com)
+-   **For project inquiries:** [contact@iseer.com](mailto:feedbacks@iseer.social)
+-   **For career opportunities:** [careers@iseer.com](mailto:mail@careers.iseer.social)
 
 <br />
 <p align="center">
