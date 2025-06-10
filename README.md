@@ -13,7 +13,7 @@ Please review the links and especially the new "Featured Projects" section.
 </p>
 
 <p align="center">
-  <strong>Building High-Performance Digital Solutions, Globally.</strong>
+  <strong>See Beyond the Surface.</strong>
   <br />
   We are a passionate team of innovators and engineers across the <strong>United States</strong> and <strong>Bangladesh</strong>.
   <br /> 
