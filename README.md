@@ -12,10 +12,6 @@ Please review the links and especially the new "Featured Projects" section.
   </a>
 </p>
 
-<h1 align="center">
-  Iseer
-</h1>
-
 <p align="center">
   <strong>Building High-Performance Digital Solutions, Globally.</strong>
   <br />
