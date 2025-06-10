@@ -8,7 +8,7 @@ Please review the links and especially the new "Featured Projects" section.
 
 <p align="center">
   <a href="https://iseer.social" target="_blank">
-    <img src="https://storage.iseer.social/Iseer%20Full%20LOGO%201.svg" alt="Iseer LLC Logo" width="220">
+    <img src="https://storage.iseer.social/iseer-logo.svg" alt="Iseer LLC Logo" width="220">
   </a>
 </p>
 
