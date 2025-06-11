@@ -23,7 +23,7 @@ Please review the links and especially the new "Featured Projects" section.
 <p align="center">
   <!-- 💡 Tip: Ensure these links are up-to-date. I've corrected the badge text and icons. -->
   <a href="https://iseer.social" target="_blank"><img src="https://img.shields.io/badge/Website-iseer.social-blue?style=for-the-badge&logo=icloud" alt="Website"></a>
-  <a href="https://x.com/Iseer_corp" target="_blank"><img src="https://img.shields.io/badge/Follow_Us-black?style=for-the-badge&logo=x" alt="Follow on X"></a>
+  <a href="https://x.com/iseerllc" target="_blank"><img src="https://img.shields.io/badge/Follow_Us-black?style=for-the-badge&logo=x" alt="Follow on X"></a>
   <a href="mailto:contact@iseer.social"><img src="https://img.shields.io/badge/Email_Us-red?style=for-the-badge&logo=gmail" alt="Email Us"></a>
 </p>
 
@@ -80,7 +80,7 @@ Have an idea, a project, or just a question? We would love to connect with you.
 
 -   **Project Inquiries:** Drop us a line at [contact@iseer.social](mailto:contact@iseer.social)
 -   **Career Opportunities:** Join our team! See open positions at [careers@iseer.social](mailto:careers@iseer.social)
--   **Find us on Social:** [LinkedIn](https://linkedin.com/company/iseer) <!-- 💡 Add your LinkedIn URL --> | [X (Twitter)](https://x.com/Iseer_corp)
+-   **Find us on Social:** [LinkedIn](https://linkedin.com/company/iseer) <!-- 💡 Add your LinkedIn URL --> | [X (Twitter)](https://x.com/iseerllc)
 
 <br />
 <p align="center">
