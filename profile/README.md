@@ -7,7 +7,7 @@ Please review the links and especially the new "Featured Projects" section.
 -->
 
 <p align="center">
-  <a href="https://iseer.social" target="_blank">
+  <a href="https://iseer.co" target="_blank">
     <img src="https://storage.iseer.social/iseer-logo.svg" alt="Iseer LLC Logo" width="220">
   </a>
 </p>
@@ -21,10 +21,10 @@ Please review the links and especially the new "Featured Projects" section.
 </p>
 
 <p align="center">
-  <!-- 💡 Tip: Ensure these links are up-to-date. I've corrected the badge text and icons. -->
-  <a href="https://iseer.social" target="_blank"><img src="https://img.shields.io/badge/Website-iseer.social-blue?style=for-the-badge&logo=icloud" alt="Website"></a>
+  <!-- 💡 Tip: Ensure these links are up-to-date. -->
+  <a href="https://iseer.co" target="_blank"><img src="https://img.shields.io/badge/Website-iseer.social-blue?style=for-the-badge&logo=icloud" alt="Website"></a>
   <a href="https://x.com/iseerllc" target="_blank"><img src="https://img.shields.io/badge/Follow_Us-black?style=for-the-badge&logo=x" alt="Follow on X"></a>
-  <a href="mailto:contact@iseer.social"><img src="https://img.shields.io/badge/Email_Us-red?style=for-the-badge&logo=gmail" alt="Email Us"></a>
+  <a href="mailto:contact@iseer.co"><img src="https://img.shields.io/badge/Email_Us-red?style=for-the-badge&logo=gmail" alt="Email Us"></a>
 </p>
 
 ---
