@@ -78,8 +78,8 @@ We believe in using the right tool for the job. Here’s a look at the technolog
 
 Have an idea, a project, or just a question? We would love to connect with you.
 
--   **Project Inquiries:** Drop us a line at [contact@iseer.social](mailto:contact@iseer.social)
--   **Career Opportunities:** Join our team! See open positions at [careers@iseer.social](mailto:careers@iseer.social)
+-   **Project Inquiries:** Drop us a line at [contact@iseer.co](mailto:contact@iseer.co)
+-   **Career Opportunities:** Join our team! See open positions at [careers@iseer.co](mailto:careers@iseer.co)
 -   **Find us on Social:** [LinkedIn](https://linkedin.com/company/iseer) <!-- 💡 Add your LinkedIn URL --> | [X (Twitter)](https://x.com/iseerllc)
 
 <br />
