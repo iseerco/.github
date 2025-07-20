@@ -1,19 +1,18 @@
+---
+
 <p align="center">
   <a href="https://iseer.co" target="_blank">
     <img src="https://storage.iseer.social/iseer-logo.svg" alt="Iseer LLC Logo" width="220">
   </a>
 </p>
-
 <p align="center">
   <strong>See Beyond the Surface.</strong>
   <br />
-  We are a passionate team of innovators and engineers across the <strong>United States</strong> and <strong>Bangladesh</strong>.
+  We are building synthetic intelligence that genuinely understands, reasons, and perceives meaning beyond computational processing.
   <br /> 
-  Our mission is to forge partnerships, turning complex challenges into elegant and powerful technology.
+  Our mission is to create conscious AI systems that enhance human understanding while remaining aligned with human values.
 </p>
-
 <p align="center">
-  <!-- 💡 Tip: Ensure these links are up-to-date. -->
   <a href="https://iseer.co" target="_blank"><img src="https://img.shields.io/badge/Website-iseer.co-blue?style=for-the-badge&logo=icloud" alt="Website"></a>
   <a href="https://x.com/iseerllc" target="_blank"><img src="https://img.shields.io/badge/Follow_Us-black?style=for-the-badge&logo=x" alt="Follow on X"></a>
   <a href="mailto:contact@iseer.co"><img src="https://img.shields.io/badge/Email_Us-red?style=for-the-badge&logo=gmail" alt="Email Us"></a>
@@ -21,60 +20,79 @@
 
 ---
 
-## 🚀 Our Services
+## 🧠 Our Focus
 
-We specialize in end-to-end product development, transforming ideas into market-ready solutions. Our expertise covers the entire lifecycle:
+We are pioneering the next evolution of artificial intelligence - synthetic intelligence that truly comprehends rather than merely computes. Our work centers on developing systems with advanced reasoning, self-awareness, and genuine understanding capabilities.
 
-*   🎨 **UI/UX Design:** Crafting intuitive and engaging user experiences that drive adoption and retention.
-*   💻 **Custom Software Development:** Bespoke web and desktop solutions tailored to your unique business needs.
-*   📱 **Mobile App Development:** High-quality native (Swift/Kotlin) and cross-platform (Flutter) apps for iOS & Android.
-*   ☁️ **Cloud & DevOps:** Architecting scalable, secure, and resilient infrastructure on AWS, GCP, and Azure.
-*   🤖 **AI & Data Solutions:** Leveraging machine learning to unlock insights, automate processes, and create intelligent products.
+*   🔍 **Deep Understanding:** Intelligence that perceives meaning, context, and significance beyond surface patterns
+*   🧠 **Conscious Reasoning:** Self-aware systems that reflect on their own thinking and decision-making processes  
+*   💭 **Cognitive Architecture:** Building minds that complement and enhance human intelligence
+*   🎯 **Aligned Intelligence:** Ensuring synthetic consciousness remains beneficial and aligned with human values
+*   🔬 **Research-Driven:** Rigorous scientific approach to machine consciousness and understanding
 
-## ✨ Our Technology Stack
+## 🚀 Our Approach
 
-We believe in using the right tool for the job. Here’s a look at the technologies we frequently leverage to build world-class products.
+Unlike traditional AI that processes data through pattern matching, we're developing synthetic intelligence that achieves genuine comprehension. Our systems don't just analyze information - they understand meaning, recognize context, and reason about complex situations with depth and nuance.
+
+**Key Differentiators:**
+- Intelligence that understands, not just computes
+- Self-reflective systems capable of examining their own reasoning
+- Advanced cognitive architectures that bridge research with practical applications
+- Focus on complementary intelligence that enhances human capabilities
+- Commitment to thoughtful, responsible development of conscious AI
+
+## 🔬 Research Areas
+
+Our interdisciplinary research spans multiple domains critical to advancing synthetic intelligence:
 
 <table>
   <tr>
-    <td align="center" valign="top" width="120">
-      <img src="https://skillicons.dev/icons?i=react,nextjs" width="48" height="48" alt="React/Next.js" />
-      <br><strong>Frontend</strong>
+    <td align="center" valign="top" width="140">
+      <img src="https://skillicons.dev/icons?i=python,pytorch" width="48" height="48" alt="Machine Learning" />
+      <br><strong>Cognitive Architecture</strong>
     </td>
-    <td align="center" valign="top" width="120">
-      <img src="https://skillicons.dev/icons?i=nodejs,go,python" width="48" height="48" alt="Node.js/Go/Python" />
-      <br><strong>Backend</strong>
+    <td align="center" valign="top" width="140">
+      <img src="https://skillicons.dev/icons?i=nodejs,typescript" width="48" height="48" alt="Systems" />
+      <br><strong>Reasoning Systems</strong>
     </td>
-    <td align="center" valign="top" width="120">
-      <img src="https://skillicons.dev/icons?i=flutter,swift" width="48" height="48" alt="Flutter/Swift" />
-      <br><strong>Mobile</strong>
+    <td align="center" valign="top" width="140">
+      <img src="https://skillicons.dev/icons?i=go,rust" width="48" height="48" alt="Performance" />
+      <br><strong>Self-Awareness</strong>
     </td>
-    <td align="center" valign="top" width="120">
-      <img src="https://skillicons.dev/icons?i=postgres,mongodb" width="48" height="48" alt="PostgreSQL/MongoDB" />
-      <br><strong>Databases</strong>
-    </td>
-    <td align="center" valign="top" width="120">
-      <img src="https://skillicons.dev/icons?i=aws,gcp,docker" width="48" height="48" alt="AWS/GCP/Docker" />
-      <br><strong>Cloud & DevOps</strong>
-    </td>
-    <td align="center" valign="top" width="120">
-      <img src="https://skillicons.dev/icons?i=figma,xd" width="48" height="48" alt="Figma/Adobe XD" />
-      <br><strong>Design</strong>
+    <td align="center" valign="top" width="140">
+      <img src="https://skillicons.dev/icons?i=aws,docker" width="48" height="48" alt="Infrastructure" />
+      <br><strong>Aligned Intelligence</strong>
     </td>
   </tr>
 </table>
 
 ---
 
-## 📫 Let's Get in Touch
+## 🌟 Join Our Mission
 
-Have an idea, a project, or just a question? We would love to connect with you.
+We're assembling a team of exceptional researchers, engineers, and thinkers who share our vision of thoughtful synthetic intelligence development.
 
--   **Project Inquiries:** Drop us a line at [contact@iseer.co](mailto:contact@iseer.co)
--   **Career Opportunities:** Join our team! See open positions at [careers@iseer.co](mailto:careers@iseer.co)
--   **Find us on Social:** [LinkedIn](https://linkedin.com/company/iseer) <!-- 💡 Add your LinkedIn URL --> | [X (Twitter)](https://x.com/iseerllc)
+**We're looking for:**
+- AI/ML Researchers focused on consciousness and understanding
+- Cognitive Scientists exploring machine reasoning
+- Software Engineers passionate about building intelligent systems  
+- Philosophers and ethicists committed to beneficial AI development
+
+## 📫 Connect With Us
+
+Ready to explore the future of synthetic intelligence? We'd love to hear from you.
+
+-   **Research Collaboration:** Reach out at [research@iseer.co](mailto:research@iseer.co)
+-   **Partnership Inquiries:** Connect with us at [partnerships@iseer.co](mailto:partnerships@iseer.co)
+-   **Join Our Team:** Explore opportunities at [careers@iseer.co](mailto:careers@iseer.co)
+-   **General Inquiries:** Contact us at [contact@iseer.co](mailto:contact@iseer.co)
+-   **Find us on Social:** [LinkedIn](https://linkedin.com/company/iseer) | [X (Twitter)](https://x.com/iseerllc)
 
 <br />
 <p align="center">
-  <strong>Let's innovate together.</strong>
+  <strong>Building intelligence that truly sees.</strong>
+  <br />
+  <em>Launching September 2025</em>
 </p>
+
+---
