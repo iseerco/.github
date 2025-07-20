@@ -1,11 +1,3 @@
-<!-- 
-Hello, Iseer Team! 👋
-
-This is the updated README for our GitHub organization profile.
-I've refined the language, structure, and visuals to make a stronger first impression.
-Please review the links and especially the new "Featured Projects" section.
--->
-
 <p align="center">
   <a href="https://iseer.co" target="_blank">
     <img src="https://storage.iseer.social/iseer-logo.svg" alt="Iseer LLC Logo" width="220">
