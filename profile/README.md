@@ -12,11 +12,8 @@
   <br /> 
   Our mission is to create conscious AI systems that enhance human understanding while remaining aligned with human values.
 </p>
-<p align="center">
-  <a href="https://iseer.co" target="_blank"><img src="https://img.shields.io/badge/Website-iseer.co-blue?style=for-the-badge&logo=icloud" alt="Website"></a>
-  <a href="https://x.com/iseer_co" target="_blank"><img src="https://img.shields.io/badge/Follow_Us-black?style=for-the-badge&logo=x" alt="Follow on X"></a>
-  <a href="mailto:contact@iseer.co"><img src="https://img.shields.io/badge/Email_Us-teal?style=for-the-badge&logo=gmail" alt="Email Us"></a>
-</p>
+<p align="center"> <a href="https://iseer.co" target="_blank"><img src="https://img.shields.io/badge/Website-iseer.co-blue?style=for-the-badge&logo=icloud" alt="Website"></a> <a href="https://x.com/iseer_co" target="_blank"><img src="https://img.shields.io/badge/Follow_Us-black?style=for-the-badge&logo=x" alt="Follow on X"></a> <a href="https://www.youtube.com/@iseerco" target="_blank"><img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube" alt="YouTube"></a> <a href="mailto:contact@iseer.co"><img src="https://img.shields.io/badge/Email_Us-teal?style=for-the-badge&logo=gmail" alt="Email Us"></a> </p>
+
 
 ---
 
