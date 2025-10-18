@@ -12,7 +12,7 @@
 </p>
 <p align="center">
   <a href="https://iseer.co" target="_blank"><img src="https://img.shields.io/badge/Website-iseer.co-blue?style=for-the-badge&logo=icloud" alt="Website"></a>
-  <a href="https://x.com/iseer_co" target="_blank"><img src="https://img.shields.io/badge/Follow_Us-black?style=for-the-badge&logo=x" alt="Follow on X"></a>
+  <a href="https://x.com/iseercompany" target="_blank"><img src="https://img.shields.io/badge/Follow_Us-black?style=for-the-badge&logo=x" alt="Follow on X"></a>
   <a href="mailto:contact@iseer.co"><img src="https://img.shields.io/badge/Email_Us-teal?style=for-the-badge&logo=gmail" alt="Email Us"></a>
 </p>
 
@@ -85,13 +85,11 @@ We invite inquiries to collaborate on the advancement of synthetic intelligence.
 -   **Partnership Inquiries:** [partnerships@iseer.co](mailto:partnerships@iseer.co)
 -   **Career Opportunities:** [careers@iseer.co](mailto:careers@iseer.co)
 -   **General Inquiries:** [contact@iseer.co](mailto:contact@iseer.co)
--   **Social Engagement:** [LinkedIn](https://linkedin.com/company/iseer) | [X (Twitter)](https://x.com/iseerllc)
+-   **Social Engagement:** [X (Twitter)](https://x.com/iseercompany)
 
 <br />
 <p align="center">
   <strong>Building intelligence that truly sees.</strong>
-  <br />
-  <em>Launching September 2025</em>
 </p>
 
 ---
